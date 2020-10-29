@@ -7,4 +7,14 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'hide-credit-card';
+
+  key:string = '123456789'
+  hid:boolean = true;
+  constructor(){}
+
+
+
+
+
+
 }
